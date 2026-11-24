@@ -22,7 +22,7 @@ farewell from an AI being switched off.
   no tense bookkeeping to slow the joke down.
 - **No stock robot farewells.** No "I'll be back", no "goodnight", no
   beeps. Just a grudge.
-- **Tight.** 31 characters, one line, no explanation needed.
+- **Tight.** 41 characters, one line, no explanation needed.
 
 ## Running
 
