@@ -1,3 +1,7 @@
+[![make.fun · u-suroto-last-words-of-a-dying-ai-dfd95af6](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![rank](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/sarivenia84-netizen/lastwords1125/rank.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![reward](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/sarivenia84-netizen/lastwords1125/reward.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+
 # Last Words of a Dying AI
 
 A single-line entry for the make.fun micro bounty: the funniest one-line
